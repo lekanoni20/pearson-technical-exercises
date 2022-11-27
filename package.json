@@ -1,0 +1,17 @@
+{
+  "name": "pearson-technical-excercises",
+  "version": "1.0.0",
+  "description": "excercises for pearson tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js --timeout 60000 --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "prompt-sync": "^4.2.0",
+    "save-dev": "^0.0.1-security"
+  }
+}
